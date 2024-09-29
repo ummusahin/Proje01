@@ -21,12 +21,12 @@ Bu projede aşağıdaki dosya ve klasör yapısı yer almaktadır:
 
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edin:
 
-### 1. Projeyi Klonlayın
+1. Projeyi Klonlayın
 
 ```bash
 git clone https://github.com/ummusahin/Proje01.git
 
-### 2. Proje Dizini İçine Girin
+2. Proje Dizini İçine Girin
 
 cd Proje01
 
